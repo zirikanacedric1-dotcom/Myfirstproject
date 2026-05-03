@@ -1,0 +1,1 @@
+This Registration System is a web application used to collect and manage user data. It allows users to register by filling a form, and the data is stored in a database. The system also supports viewing, editing, and deleting records. It is built using HTML, CSS, PHP, and MySQL, and demonstrates basic CRUD operations and database connectivity.
